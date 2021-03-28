@@ -1,6 +1,7 @@
 # BamTech CLI
 
 ![bam](https://media.giphy.com/media/o9ggk5IMcYlKE/giphy.gif)
+![hck](https://media.giphy.com/media/TOWeGr70V2R1K/giphy.gif)
 ## Description
 
 Cross-Platform CLI for BamTech.

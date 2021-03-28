@@ -1,6 +1,8 @@
 # BamTech CLI
 
-Cross-Platform CLI for BamTech
+## Description
+
+Cross-Platform CLI for BamTech.
 
 ## Getting Started
 

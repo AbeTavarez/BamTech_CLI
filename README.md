@@ -1,14 +1,14 @@
 # BamTech CLI
 
-Cross Platform CLI for BamTech
+Cross-Platform CLI for BamTech
 
 ## Getting Started
 
-### Please give this project a star before your start.
-
-1. Clone this repo and open it on your favorite code editor.\n
+1. Clone this repo and open it on your favorite code editor.
 2. Add your code to the project.
 3. Add, Commit and Push your code and then create a Pull Request.
+
+### Don't forget to give this project a star if you like it.
 
 ### Prerequisites
 

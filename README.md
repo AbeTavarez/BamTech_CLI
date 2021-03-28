@@ -1,6 +1,6 @@
 # BamTech CLI
 
-[](https://media.giphy.com/media/o9ggk5IMcYlKE/giphy.gif)
+![bam](https://media.giphy.com/media/o9ggk5IMcYlKE/giphy.gif)
 ## Description
 
 Cross-Platform CLI for BamTech.

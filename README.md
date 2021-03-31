@@ -12,8 +12,6 @@ Cross-Platform CLI for BamTech.
 2. Add your code to the project.
 3. Add, Commit and Push your code and then create a Pull Request.
 
-### Don't forget to give this project a star if you like it.
-
 ### Prerequisites
 
 - Python 3

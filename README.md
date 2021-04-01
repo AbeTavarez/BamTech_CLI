@@ -8,9 +8,9 @@ Cross-Platform CLI for BamTech.
 
 ## Getting Started
 
-1. Clone this repo and open it on your favorite code editor.
-2. Add your code to the project.
-3. Add, Commit and Push your code and then create a Pull Request.
+1. Fork this repo and open it on your favorite code editor.
+2. Create a new file, add your code to the file.
+3. Finally: Add, Commit and Push your code and then create a Pull Request on your github repo.
 
 ### Prerequisites
 
@@ -24,3 +24,4 @@ Cross-Platform CLI for BamTech.
 ## Collaborators
 
 * [Abraham](https://github.com/AbeTavarez/) - GitHub
+* [Antonio](https://github.com/MikeAR93/) - GitHub

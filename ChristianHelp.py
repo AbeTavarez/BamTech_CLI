@@ -30,3 +30,4 @@ def christian_help():
 def download_more_ram():
   name = os.name()
   print(f"The Kernel name is: {name}")
+
